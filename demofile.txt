@@ -1,1 +1,7 @@
 my first git file 
+
+some text here
+
+1
+2
+3
