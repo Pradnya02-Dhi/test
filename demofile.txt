@@ -7,3 +7,5 @@ some text here
 3
 
 new changes done
+
+3rd change - final
