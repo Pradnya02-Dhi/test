@@ -8,4 +8,6 @@ some text here
 
 new changes done
 
-3rd change - final
+3rd change - not final
+
+on new
